@@ -5,7 +5,7 @@ package aura.aura;
 import "gogoproto/gogo.proto";
 import "aura/aura/aura.proto";
 
-option go_package = "github.com/aura-nw/aura/x/aura/types";
+option go_package = "github.com/0x00trust/aura/x/aura/types";
 
 // GenesisState defines the aura module's genesis state.
 message GenesisState {

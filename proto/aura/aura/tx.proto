@@ -3,7 +3,7 @@ package aura.aura;
 
 // this line is used by starport scaffolding # proto/tx/import
 
-option go_package = "github.com/aura-nw/aura/x/aura/types";
+option go_package = "github.com/0x00trust/aura/x/aura/types";
 
 // Msg defines the Msg service.
 service Msg {
